@@ -1,9 +1,9 @@
 ## cf-check
-Check an IP is Owned by Cloudflare.
+Check an IP is Owned by CDN .
 
 ## Install
 ```
-▶ go get -u github.com/dwisiswant0/cf-check
+▶ go get -u github.com/babaloveyou/cdncheck
 ```
 
 ## Usage
